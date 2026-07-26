@@ -39,6 +39,7 @@ I personally use this method the most, but I'm too lazy today to write a guide o
 
 **Warning:** Make sure your PC's CPU is beefy enough, and you're willing to keep it running for the entirety of the processing!
 
+0. [YOU MUST HAVE PYTHON 3.11 INSTALLED, AS WELL AS ALL DEPENDACIES DEFINED]
 1. Simply download `PC_process_360_rgbd.py`, and rename your input file to `input.mp4`.
 2. Download and install some form of `ffmpeg-essentials` accessible inside the folder where `PC_process_360_rgbd.py` is located.
 3. Finally, run the file!
@@ -84,8 +85,11 @@ I personally use this method the most, but I'm too lazy today to write a guide o
 
 **Warning:** Make sure your PC's CPU is beefy enough, and you're willing to keep it running for the entirety of the processing!
 
+0. [YOU MUST HAVE PYTHON 3.11 INSTALLED, AS WELL AS ALL DEPENDACIES DEFINED]
 1. Simply download `PC_insvto360.py`, and rename your input file to `input.mp4`.
 2. Download and install some form of `ffmpeg-essentials` accessible inside the folder where `PC_insvto360.py` is located.
 3. Finally, run the file!
 
 </details>
+
+A single GUI application for pc was planned, but I don't know If I have time to make it, sorry if you needed that instead..
